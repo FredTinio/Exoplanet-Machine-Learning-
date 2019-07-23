@@ -1,3 +1,6 @@
+#Jupyter Notebook Link:
+http://localhost:8888/notebooks/19-Machine-Learning/Instructions/starter_code/svm.ipynb
+
 # Exoplanet-Machine-Learning-
 Exoplanet assignment
 
